@@ -621,7 +621,7 @@ textarea.input {
   font-size: 0.9rem;
   font-weight: 400;
   pointer-events: none;
-  z-index: 1000;
+  z-index: 1;
   transition: 0.5s;
 }
 
